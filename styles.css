@@ -36,10 +36,11 @@ h1 {
     display: flex;
     justify-content: flex-end;
     width: 45%;
-    height: 20%;
+    height: 25%;
     border: 2px solid purple;
     font-size: 25px;
     flex-wrap: wrap;
+    padding: 1%;
 }
 
 h3 {
